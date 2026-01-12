@@ -3,7 +3,7 @@ Olá eu sou Yuri  e estou em transição de carreira para me tornar um **desenvo
 
 Atualmente, estudando tecnologias como **JavaScript**, **TypeScript**, **React**, **Node.js**, **Express** e **Python**. Tenho experiência tanto em desenvolvimento web quanto na construção de APIs escaláveis e aplicações modernas.
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriGConstantino&layout=compact&langs_count=7&theme=dracula"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YuriGConstantino&hide=contribs,prs_icons=true&theme=dracula" />
 
 ## Ferramentas e Tecnologias
 <div>
